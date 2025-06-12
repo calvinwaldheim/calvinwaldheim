@@ -19,7 +19,7 @@ I specialize in:
 
 ### 📦 Tech & Tools I enjoy:
 
-`Cursor AI` · `v0.dev` · `Supabase` · `Next.js` · `Figma` · `Jira Align` · `LLMs` · `Low-code stacks`
+`Cursor AI` · `v0.dev` · `Supabase` · `Next.js` · `Figma` · `Jira` · `LLMs` · `Low-code stacks`
 
 ---
 
