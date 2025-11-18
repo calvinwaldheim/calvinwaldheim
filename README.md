@@ -5,7 +5,7 @@ I'm a Product Manager, solo builder, and 2x startup founder with 8+ years of exp
 I specialize in:
 
 * 🧠 **AI & LLM Integration** – Building tools with Cursor, v0, and low-code platforms to prototype and ship fast  
-* 🛠️ **0→2 Product Development** – From concept to launch in B2B, industrial IoT, and enterprise SaaS  
+* 🛠️ **0→1 Product Development** – From concept to launch in B2B, industrial IoT, and enterprise SaaS  
 * 🌐 **Innovation Strategy** – Developed global frameworks at ERIKS to bring corporate innovation to life  
 * 🧹 **Cross-functional Leadership** – Aligning engineering, design, and business in complex environments  
 
